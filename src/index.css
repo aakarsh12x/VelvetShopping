@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family:Arial, Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 14px; /* Adjust the base font size */
+  background-color: #f7f9ce9e; /* Light gray background color */
+}
+
+code {
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 1.4em; /* Adjust the font size */
+  color: #5b5858; /* Dark gray code text color */
+  background-color: #f5eeee; /* Light gray code background color */
+  padding: 0.2em 0.4em; /* Add some padding for better readability */
+  border-radius: 4px; /* Rounded corners for the code block */
+}

@@ -1,0 +1,12 @@
+.row{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:25px ;
+    
+    
+}
+.col-5{
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    /* font- */
+    text-decoration:underline black 1px;
+}
